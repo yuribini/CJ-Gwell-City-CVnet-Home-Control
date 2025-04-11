@@ -1,0 +1,13 @@
+{
+    "version" : "1.0",
+    "site" : "CV",
+    "ems" : "5",
+    "use_voiceControl" : "1",
+    "use_call" : "1",
+    "use_language" : "1",
+    "use_weather_location" : "1",
+    "use_dashboard" : "1",
+    "use_samsung" : "0",
+    "use_showroom" : "0"
+    
+  }

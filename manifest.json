@@ -1,0 +1,8 @@
+{
+    "domain": "cvnet",
+    "name": "CJ Gwell City CVnet Home Control",
+    "documentation": "https://your-docs-link.example.com",
+    "dependencies": [],
+    "codeowners": ["@yourgithubid"],
+    "requirements": ["requests"]
+  }
